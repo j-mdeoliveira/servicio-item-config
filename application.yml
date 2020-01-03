@@ -1,0 +1,8 @@
+config:
+  security:
+    oauth:
+      client:
+        id: frontEndApp
+        secret: 12345
+      jwt:
+        key: algun_cod_secreto
